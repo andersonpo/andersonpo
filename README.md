@@ -2,7 +2,7 @@
 
 <div>
 <h2 style="font-weight: bold; font-size: 48px">Anderson Pereira de Oliveira</h2>
-<img alt="Andersonpo-pic" height="150" style="border-radius:50px;" src="https://gravatar.com/avatar/da5ff60707554b777d16d04b0f79a99e?s=200">
+<!-- <img alt="Andersonpo-pic" height="150" style="border-radius:50px;" src="https://gravatar.com/avatar/da5ff60707554b777d16d04b0f79a99e?s=200"> -->
 <h3 style="font-weight: bold;">Desenvolvedor, Tech Leader</h3>
 <h4 style="text-align: center;">Bem vindo, sou mais um amante de tecnologias</h4>
 </div>
