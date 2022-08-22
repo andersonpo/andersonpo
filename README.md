@@ -1,11 +1,21 @@
-<hr>
+## Olá, sou o Anderson Pereira de Oliveira! 👋
 
-<div>
-<h2 style="font-weight: bold; font-size: 48px">Anderson Pereira de Oliveira</h2>
+
+- Barachelado em Ciências da Computação no ano de 2010 pelo Anhanguera Educacional Valinhos (FAV) e Técnico em informática em 2006.
+- Trabalho com TI, especialmente programação desde 2007, sendo atualmente como Tech Leader / Arquiteto.
+- Já atuei em diversas tecnologias:
+  <br>   .Net C# (Full e Core), Angular, React, Typescript, Javascript, NodeJS, Kotlin (Android), Java (Android)
+  <br>   SQL Server, Oracle, MySQL, SQLite, MondoDB
+  <br>   RabbitMQ, Kafka, SQS (AWS), Apache NiFi
+  <br>   AWS, Azure
+  <br>   JMeter, Cypress, Postman, Gatling, Sonar, OWSAP
+  <br>   Docker, Kubernetes
+  
+<strong>Amante de tecnologias, hardwares, softwares e games!</strong>
+
+<hr>
 <!-- <img alt="Andersonpo-pic" height="150" style="border-radius:50px;" src="https://gravatar.com/avatar/da5ff60707554b777d16d04b0f79a99e?s=200"> -->
-<h3 style="font-weight: bold;">Desenvolvedor, Tech Leader</h3>
-<h4 style="text-align: center;">Bem vindo, sou mais um amante de tecnologias</h4>
-</div>
+
 
 <div style="text-align: center;">
 <a href="https://github.com/andersonpo">
